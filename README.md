@@ -1,9 +1,11 @@
 # heyo
 ## I'm bord4life, or Bord
 pronouns: He/Him
+---------
 Favorite game: Deltarune
+--------
 Favorite song: THE WORLD REVOLVING
--------------------------
+------------------------------------------
 i'm learning how to code C# right now so i can create mods for RUMBLE VR
 currently working on: 
  - [BlindRumble](https://github.com/bord4life/BlindRumble)
