@@ -1,4 +1,14 @@
 ## Hi there 👋
+# I'm bord4life, or Bord
+pronouns: He/Him
+-------------------------
+i'm learning how to code C# right now so i can create mods for RUMBLE VR
+currently working on: 
+ - [BlindRumble](https://github.com/bord4life/BlindRumble)
+
+cool stuff i wanna do after:
+- [super multiplayer maps in single player](https://discord.com/channels/1076039299448967198/1489468388316287026)
+- [Movement practice mod](https://discord.com/channels/1076039299448967198/1490502695482818560)
 
 <!--
 **bord4life/bord4life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
