@@ -13,10 +13,16 @@ currently working on:
 cool stuff i wanna do after:
 - [super multiplayer maps in single player](https://discord.com/channels/1076039299448967198/1489468388316287026)
 - [Movement practice mod](https://discord.com/channels/1076039299448967198/1490502695482818560)
+- [Biblically accurate earth](https://discord.com/channels/1076039299448967198/1484383766330999037)
+- [Personal Leaderboard](https://discord.com/channels/1076039299448967198/1457889384413007873) 
 ------------------------------------------------------
 Please talk to me about deltarune if you play
 its my favorite game ever
 i wanna play multiplayer mods
+
+
+
+<sub>small subtitle text</sub>
 
 
 <!--
