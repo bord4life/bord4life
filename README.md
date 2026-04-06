@@ -1,3 +1,4 @@
+<div align="center">
 # heyo
 ## I'm bord4life, or Bord
 pronouns: He/Him
@@ -22,8 +23,9 @@ i wanna play multiplayer mods
 
 
 
-<sub>small subtitle text</sub>
+<sub>shh i already started personal leaderboard</sub>
 
+</div>
 
 <!--
 **bord4life/bord4life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
