@@ -1,6 +1,8 @@
-## Hi there 👋
-# I'm bord4life, or Bord
+# heyo
+## I'm bord4life, or Bord
 pronouns: He/Him
+Favorite game: Deltarune
+Favorite song: THE WORLD REVOLVING
 -------------------------
 i'm learning how to code C# right now so i can create mods for RUMBLE VR
 currently working on: 
@@ -9,6 +11,11 @@ currently working on:
 cool stuff i wanna do after:
 - [super multiplayer maps in single player](https://discord.com/channels/1076039299448967198/1489468388316287026)
 - [Movement practice mod](https://discord.com/channels/1076039299448967198/1490502695482818560)
+------------------------------------------------------
+Please talk to me about deltarune if you play
+its my favorite game ever
+i wanna play multiplayer mods
+
 
 <!--
 **bord4life/bord4life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
