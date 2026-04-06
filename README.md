@@ -1,5 +1,5 @@
-<p align="center"> # heyo</p>
-<p align="center"> ## I'm bord4life, or Bord</p>
+<h1 align="center">heyo</h1>
+<h2 align="center">I'm bord4life, or Bord</h2>
 <p align="center">pronouns: He/Him</p>
 <hr>
 
