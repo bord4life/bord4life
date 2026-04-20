@@ -10,12 +10,12 @@
 <p align="center">I'm learning how to code C# right now so I can create mods for RUMBLE VR</p>
 <p align="center">Currently working on:</p>
 <p align="center">- <a href="https://github.com/bord4life/BlindRumble">BlindRumble</a></p>
+<p align="center">- <a href="https://github.com/bord4life/Personal-Leaderboard">Personal Leaderboard</a></p>
 
 <p align="center">Cool stuff I wanna do after:</p>
 <p align="center">- <a href="https://discord.com/channels/1076039299448967198/1489468388316287026">Super multiplayer maps in single player</a></p>
 <p align="center">- <a href="https://discord.com/channels/1076039299448967198/1490502695482818560">Movement practice mod</a></p>
 <p align="center">- <a href="https://discord.com/channels/1076039299448967198/1484383766330999037">Biblically accurate earth</a></p>
-<p align="center">- <a href="https://discord.com/channels/1076039299448967198/1457889384413007873">Personal Leaderboard</a></p>
 <hr>
 
 <p align="center">Please talk to me about Deltarune if you play</p>
